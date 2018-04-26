@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package DAO;
+package br.ufc.ru.modelDAO;
 
 import br.ufc.ru.model.Tipo;
 import java.util.ArrayList;

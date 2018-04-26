@@ -1,4 +1,4 @@
-package DAO;
+package br.ufc.ru.modelDAO;
 
 import java.util.ArrayList;
 
